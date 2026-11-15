@@ -1,0 +1,223 @@
+{
+  "version": 1,
+  "texts": {},
+  "styles": {},
+  "images": {},
+  "links": {},
+  "theme": {
+    "accent": "#858969",
+    "bg": "#faf9f6",
+    "surface": "#ffffff",
+    "ink": "#282b26",
+    "muted": "#6b6f65",
+    "line": "#dedfd5"
+  },
+  "settings": {
+    "phone": "",
+    "email": "",
+    "address": "",
+    "mapUrl": "",
+    "misUrl": "",
+    "endpoint": "",
+    "privacyUrl": "",
+    "licenseUrl": "",
+    "socialUrl": "",
+    "bookingMode": "demo"
+  },
+  "doctors": [
+    {
+      "id": "doctor-1",
+      "name": "Lorem ipsum dolor",
+      "specialty": "Lorem ipsum",
+      "experience": "Lorem ipsum dolor sit amet"
+    },
+    {
+      "id": "doctor-2",
+      "name": "Lorem ipsum dolor",
+      "specialty": "Lorem ipsum",
+      "experience": "Lorem ipsum dolor sit amet"
+    },
+    {
+      "id": "doctor-3",
+      "name": "Lorem ipsum dolor",
+      "specialty": "Lorem ipsum",
+      "experience": "Lorem ipsum dolor sit amet"
+    }
+  ],
+  "analyses": [
+    {
+      "id": "analysis-1",
+      "name": "Lorem ipsum dolor sit amet",
+      "group": "a",
+      "price": "Lorem ipsum",
+      "term": "Lorem ipsum"
+    },
+    {
+      "id": "analysis-2",
+      "name": "Lorem ipsum consectetur adipiscing",
+      "group": "a",
+      "price": "Lorem ipsum",
+      "term": "Lorem ipsum"
+    },
+    {
+      "id": "analysis-3",
+      "name": "Lorem ipsum sed do eiusmod",
+      "group": "b",
+      "price": "Lorem ipsum",
+      "term": "Lorem ipsum"
+    },
+    {
+      "id": "analysis-4",
+      "name": "Lorem ipsum tempor incididunt",
+      "group": "b",
+      "price": "Lorem ipsum",
+      "term": "Lorem ipsum"
+    },
+    {
+      "id": "analysis-5",
+      "name": "Lorem ipsum ut labore et dolore",
+      "group": "c",
+      "price": "Lorem ipsum",
+      "term": "Lorem ipsum"
+    },
+    {
+      "id": "analysis-6",
+      "name": "Lorem ipsum magna aliqua",
+      "group": "c",
+      "price": "Lorem ipsum",
+      "term": "Lorem ipsum"
+    }
+  ],
+  "drips": [
+    {
+      "id": "drip-1",
+      "name": "Красота в ресурсе",
+      "asset": "label-05",
+      "color": "#c47eaf",
+      "group": "a"
+    },
+    {
+      "id": "drip-2",
+      "name": "Лёгкость изнутри",
+      "asset": "label-03",
+      "color": "#98bc5d",
+      "group": "b"
+    },
+    {
+      "id": "drip-3",
+      "name": "Комфорт изнутри",
+      "asset": "label-02",
+      "color": "#a49ac3",
+      "group": "c"
+    },
+    {
+      "id": "drip-4",
+      "name": "Lorem ipsum",
+      "asset": "label-01",
+      "color": "#eeb047",
+      "group": "c"
+    },
+    {
+      "id": "drip-5",
+      "name": "Lorem ipsum",
+      "asset": "label-08",
+      "color": "#9ec0e1",
+      "group": "b"
+    },
+    {
+      "id": "drip-6",
+      "name": "Lorem ipsum",
+      "asset": "label-06",
+      "color": "#a782b3",
+      "group": "a"
+    },
+    {
+      "id": "drip-7",
+      "name": "Lorem ipsum",
+      "asset": "label-04",
+      "color": "#e7a498",
+      "group": "c"
+    },
+    {
+      "id": "drip-8",
+      "name": "Lorem ipsum",
+      "asset": "label-07",
+      "color": "#6cb88c",
+      "group": "b"
+    },
+    {
+      "id": "drip-9",
+      "name": "Lorem ipsum",
+      "asset": "label-09",
+      "color": "#75baa9",
+      "group": "c"
+    },
+    {
+      "id": "drip-10",
+      "name": "Lorem ipsum",
+      "asset": "label-10",
+      "color": "#df6f9b",
+      "group": "b"
+    },
+    {
+      "id": "drip-11",
+      "name": "Lorem ipsum",
+      "asset": "label-11",
+      "color": "#edb05f",
+      "group": "b"
+    },
+    {
+      "id": "drip-12",
+      "name": "Lorem ipsum",
+      "asset": "label-12",
+      "color": "#6abfcf",
+      "group": "c"
+    },
+    {
+      "id": "drip-13",
+      "name": "Lorem ipsum",
+      "asset": "label-13",
+      "color": "#36afcf",
+      "group": "c"
+    },
+    {
+      "id": "drip-14",
+      "name": "Lorem ipsum",
+      "asset": "label-14",
+      "color": "#eca69e",
+      "group": "c"
+    },
+    {
+      "id": "drip-15",
+      "name": "Lorem ipsum",
+      "asset": "label-15",
+      "color": "#66a597",
+      "group": "b"
+    },
+    {
+      "id": "drip-16",
+      "name": "Lorem ipsum",
+      "asset": "label-16",
+      "color": "#97bb68",
+      "group": "a"
+    }
+  ],
+  "schedule": {
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "times": [
+      "09:00",
+      "10:30",
+      "12:00",
+      "14:00",
+      "15:30",
+      "17:00"
+    ]
+  }
+}
